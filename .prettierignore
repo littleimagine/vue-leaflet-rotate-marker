@@ -1,0 +1,21 @@
+# Ignore artifacts:
+.DS_Store
+.fleet
+.idea
+.phpunit.result.cache
+.thumbs.db
+.vscode
+
+/.phpunit.cache
+/dist
+/build
+/bootstrap/cache
+/node_modules
+/public/assets
+/public/hot
+/public/storage
+/storage
+/vendor
+
+npm-debug.log
+yarn-error.log

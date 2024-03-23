@@ -1,0 +1,11 @@
+{
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.trimAutoWhitespace": true,
+    "editor.insertSpaces": true,
+    "editor.indentSize": "tabSize",
+    "editor.guides.indentation": true,
+    "prettier.useTabs": true,
+    "vetur.format.options.tabSize": 2,
+    "vetur.format.options.useTabs": true,
+}

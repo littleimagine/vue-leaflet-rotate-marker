@@ -14,12 +14,11 @@ Rotated marker extension for [@vue-leaflet/vue-leaflet](https://github.com/vue-l
 
 [![Support for Vue 3](https://img.shields.io/badge/VUE%203-Support-lightgreen?style=for-the-badge&logo=vuedotjs)](https://v3.vuejs.org/guide/introduction.html)
 
-[![License](https://img.shields.io/github/license/littleimagine/vue-leaflet-rotate-marker?style=flat-square)](https://github.com/littleimagine/vue-leaflet-rotate-marker/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/littleimagine/vue-leaflet-rotate-marker?style=flat-square)](https://github.com/littleimagine/vue-leaflet-rotate-marker/blob/main/LICENSE.md)
 [![NPM Version](https://img.shields.io/npm/v/vue-leaflet-rotate-marker?style=flat-square)](https://www.npmjs.com/package/vue-leaflet-rotate-marker)
 ![GitHub Release Date](https://img.shields.io/github/release-date/littleimagine/vue-leaflet-rotate-marker?label=release&style=flat-square)
 ![Install NPM](https://img.shields.io/npm/dt/vue-leaflet-rotate-marker?style=flat-square)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/littleimagine/vue-leaflet-rotate-marker?style=flat-square)
-![Snyk Vulnerabilities NPM](https://img.shields.io/snyk/vulnerabilities/npm/vue-leaflet-rotate-marker?style=flat-square)
 
 </div>
 
@@ -41,13 +40,13 @@ _In progress - Coming Soon_ 🔜
 
 <h2 align="center"> 🚀 Quick Installation </h2>
 
-```sh
+``` sh
 npm i -D vue-leaflet-rotate-marker
 ```
 
 <h2 align="center"> Quickstart </h2>
 
-```js
+``` vue
 <template>
   <div style="height: 600px; width: 100%">
     <l-map :zoom="5" :center="[-2.5, 118]">
